@@ -63,6 +63,11 @@ Start with [How to judge a vocal separation by ear](https://github.com/vocalremo
 
 The listening method is useful for drum removal too: choose a specific passage, identify the sound you need to keep or remove, and judge the result in the context of your practice session.
 
+## Practice with separated tracks
+
+- [How to practice singing with isolated vocals and a backing track](https://github.com/vocalremover-one/vocal-separation-guides/blob/main/guides/practice-singing-with-isolated-vocals.md) — Choose one phrase, study the vocal, rehearse with the instrumental, and compare your own recordings using a focused practice log.
+- [How to practice drums with a drumless backing track](https://github.com/vocalremover-one/vocal-separation-guides/blob/main/guides/practice-drums-with-drumless-tracks.md) — Check a drumless mix, practice the groove and its transitions, and review timing and dynamics with a concrete plan for the next take.
+
 ## About this GitHub organization
 
 This organization shares VocalRemover.one guides and supporting resources. Audio separation takes place on the [VocalRemover.one website](https://vocalremover.one/); the public repositories provide learning materials for using and evaluating separated audio.
